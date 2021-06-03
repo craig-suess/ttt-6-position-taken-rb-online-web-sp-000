@@ -8,4 +8,4 @@ def position_taken?(board, index)
   end 
 end 
 
-#the position_taken? method takes in a board and index paramater. If the index on that board is a space, "", " ", or a value of nil, treat it as an empty position. otherwise treat it as a filled position. 
+#the position_taken? method takes in a board and index paramater. If the index on that board is a #space, "", " ", or a value of nil, treat it as an empty position. otherwise treat it as a #filled position. 
